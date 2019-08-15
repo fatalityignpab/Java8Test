@@ -24,6 +24,7 @@ public final class App {
          * 
          * });
          */
+        
         // Lambda Java 8
         Collections.sort(lista, (String p1, String p2) -> p1.compareTo(p2));
 
@@ -41,10 +42,7 @@ public final class App {
          * @Override public double calcularPromedio(double n1, double n2) { return (n1 +
          * n2) / 2; } };
          */
-         // Yey
-         // hh
-         
-
+        
         Operacion op = (double x, double y) -> (x + y) / 2;
         System.out.println(op.calcularPromedio(5, 4));
     }
