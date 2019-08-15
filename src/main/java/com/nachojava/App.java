@@ -42,7 +42,7 @@ public final class App {
          * n2) / 2; } };
          */
 
-         //Ya puedo
+         //Ya puedo no?
 
         Operacion op = (double x, double y) -> (x + y) / 2;
         System.out.println(op.calcularPromedio(5, 4));
