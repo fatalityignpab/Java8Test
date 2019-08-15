@@ -41,11 +41,6 @@ public final class App {
          * @Override public double calcularPromedio(double n1, double n2) { return (n1 +
          * n2) / 2; } };
          */
-
-         //Sii, no?
-
-         // Ya puedo?
-
          // Yey
 
         Operacion op = (double x, double y) -> (x + y) / 2;
