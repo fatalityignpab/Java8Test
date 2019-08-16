@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DefaultMethod",
+            "request": "launch",
+            "mainClass": "com.nachojava.DefaultMethod",
+            "projectName": "VSJavaEjemplo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Scopes",
             "request": "launch",
             "mainClass": "com.nachojava.Scopes",
