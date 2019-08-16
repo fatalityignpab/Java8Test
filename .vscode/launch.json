@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Sintaxis",
+            "request": "launch",
+            "mainClass": "com.nachojava.Sintaxis",
+            "projectName": "VSJavaEjemplo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "com.nachojava.App",
