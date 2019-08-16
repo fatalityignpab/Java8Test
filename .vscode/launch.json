@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MeRefApp",
+            "request": "launch",
+            "mainClass": "com.nachojava.MeRefApp",
+            "projectName": "VSJavaEjemplo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DefaultMethod",
             "request": "launch",
             "mainClass": "com.nachojava.DefaultMethod",
