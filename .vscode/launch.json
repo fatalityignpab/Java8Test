@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StreamsApp",
+            "request": "launch",
+            "mainClass": "com.nachojava.StreamsApp",
+            "projectName": "VSJavaEjemplo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MeRefApp",
             "request": "launch",
             "mainClass": "com.nachojava.MeRefApp",
